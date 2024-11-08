@@ -1,0 +1,288 @@
+EIN|Name|City|State|Status
+010060379|Healing and Deliverance Ministry Inc.|Clarksburg|MD|United States|PC
+010271792|Bearnstow|Arlington|VA|United States|PC
+010466768|American University in Bulgaria|Washington|DC|United States|PC
+010472527|Louis C Talarico Scholarship Fund|Hanover|MD|United States|PF
+010490759|P A T T|Washington|DC|United States|PC
+010494386|Institute of Maritime History|Tall Timbers|MD|United States|PC
+010539770|Next Generation Foundation|Crownsville|MD|United States|PF
+010547918|Main Street Mobile Treatment Associates Inc.|Reisterstown|MD|United States|PC
+010549978|The Plan Ministries Inc.|Suitland|MD|United States|PC
+010550223|Association of Forensic Quality Assurance Managers|Virginia Bch|VA|United States|PC
+010551546|Faithworks Inc.|Winchester|VA|United States|PC
+010551639|Revelation Knowledge Christian Church|Washington|DC|United States|PC
+010238760|Brick Store Art Museum|Kennebunk|ME|United States|PC
+010239549|The Grand Council of Royal and Select Masters of the State|Gardiner|ME|United States|EO,LODGE
+010239808|Lincoln County Historical Association|Wiscasset|ME|United States|PC
+010241055|Maine Secondary School Principals Association|Augusta|ME|United States|PC
+010241528|Southwest Harbor Public Library|Southwest Hbr|ME|United States|PC
+010241767|United Way Inc.|Portland|ME|United States|PC
+010241920|Holmestead Inc.|Calais|ME|United States|PC
+010242095|Robert W Traip Academy Athletic Boosters|Kittery|ME|United States|SOUNK
+010243254|Morrison Center|Scarborough|ME|United States|PC
+010243548|Haystack Mountain School of Crafts|Deer Isle|ME|United States|PC
+010243866|Maine Maritime Academy Alumni Association Incorporated|Castine|ME|United States|PC
+010244457|New England Electric Railway Historical Society|Kennebunkport|ME|United States|PC
+010245261|Erskine Academy|South China|ME|United States|PC
+010551686|Joe and Missy Walsh Foundation|Potomac|MD|United States|PF
+010554700|Peace Corps Foundation|Washington|DC|United States|PC
+010557037|Share and Care Cockayne Syndrome Network Inc.|Waterford|VA|United States|PC
+010557108|Bath-Highland County Volunteer Fire Department|Williamsville|VA|United States|PC
+010557881|Grandin Theatre Foundation Inc.|Roanoke|VA|United States|PC
+010560112|Metropolitan School of the Arts|Alexandria|VA|United States|PC
+010561556|Team Richmond Aau Basketball Assn|N Chesterfld|VA|United States|PC
+010562533|Rlmva Inc.|Virginia Bch|VA|United States|PC
+010562898|Solid Union Ministries Inc.|Brookeville|MD|United States|PC
+010563200|C Elizabeth Rieg Parent Teacher Organization|Bowie|MD|United States|PC
+010564259|Freemuslim Association Inc.|Washington|DC|United States|PC
+010564710|Home in Him|Midlothian|VA|United States|PC
+010568739|Korean American Foundation-Greater Washington|Brookeville|MD|United States|PC
+010570343|North Lincoln Park Neighborhood Association|Washington|DC|United States|PC
+010574092|Association of Richmond Tennis Professionals|Richmond|VA|United States|PC
+010576963|La Plata Church of Christ|La Plata|MD|United States|PC
+010578410|Catoctin Land Trust Inc.|Frederick|MD|United States|PC
+010579796|America Abroad Media|Washington|DC|United States|PC
+010580528|Concerts by the Bay Inc.|North|VA|United States|PC
+010580596|Talbot Community Connections Inc.|Easton|MD|United States|PC
+010582722|First Vietnamese Baptist Church|Riverdale|MD|United States|PC
+010583325|Kids Soar|Roanoke|VA|United States|PC
+010583568|Nurmi Family Foundation|Washington|DC|United States|PF
+010583866|Obscure Organization|Arlington|VA|United States|PC
+010588381|District of Columbia Chamber of Commerce Foundation|Washington|DC|United States|PC
+010588746|Celestial Manna Inc.|Derwood|MD|United States|PC
+010591741|Providence Players of Fairfax|Fairfax|VA|United States|PC
+010591773|Congregation Yalkut Ha Urim Inc.|Baltimore|MD|United States|PC
+010591843|Chesapeake Bay Breakers Basketball Association|Crofton|MD|United States|PC
+010592129|Flinstone Civic Improvement Association|Flintstone|MD|United States|PC
+010593565|The One Campaign|Washington|DC|United States|PC
+010594671|Gilead Community Development Corporation Inc.|Williamsburg|VA|United States|PC
+010596305|Rescuegroups Org Inc.|Bowie|MD|United States|PC
+010596543|Ashburn Travel Hockey Inc.|Ashburn|VA|United States|PC
+010599914|Together With Pride Foundation Inc.|Silver Spring|MD|United States|PC
+010602074|Sleepy Hollow No Kill Feline Shelter|Spout Spring|VA|United States|PC
+010604102|Kavod Vnichum|Columbia|MD|United States|PC
+010605122|Remington Community Partnership Inc.|Remington|VA|United States|PC
+010605666|Richmond Kannada Sangha Inc.|Henrico|VA|United States|PC
+010608536|Fairhaven Residents Association Inc.|Sykesville|MD|United States|PC
+010609601|Strong Tower Deliverance Center|Baltimore|MD|United States|PC
+010610272|Bride of Christ Church Ministries|Bowie|MD|United States|PC
+010613166|Bring It to Life Ministries|Baltimore|MD|United States|PC
+010614894|Mount Vernon Crew Boosters Inc.|Mount Vernon|VA|United States|PC
+010615004|Cani Center for Wisdom & Wholeness|Portsmouth|VA|United States|PC
+010615097|Keys of Faith Ministries|Baltimore|MD|United States|PC
+010615518|Harford Business Roundtable for Education Inc.|Street|MD|United States|PC
+010617510|Delmarva Cat Connection Inc.|Ocean Pines|MD|United States|PC
+010618778|First Ame Church of Alexandria|Alexandria|VA|United States|PC
+010621392|Pizzazz|Washington|DC|United States|PC
+010622091|Pound Pals of Radford|Radford|VA|United States|PC
+010623012|Maryland Youth Lacrosse Association Inc.|Timonium|MD|United States|PC
+010626611|Walter Payne Foundation|Richmond|VA|United States|PF
+010626658|Agape Christian Church Inc.|Timonium|MD|United States|PC
+010627924|Chlamydia Basic Research Society|Charlottesvle|VA|United States|PC
+010628399|Toni Martial Arts Inc.|Silver Spring|MD|United States|PC
+010628541|Word of Life Outreach Ministries|Fairplay|MD|United States|PC
+010628604|Three Step Ministry Outreach|Capitol Hgts|MD|United States|PC
+010628736|Okk Foundation|Herndon|VA|United States|PC
+010629224|Vanessa Ali Ministries|Burtonsville|MD|United States|PC
+010629885|Finger Prints of His Grace|Portsmouth|VA|United States|PC
+010632648|Feather Foundation Inc.|Brooklandvl|MD|United States|PF
+010633362|Masumeen Center of Virginia|Manassas|VA|United States|PC
+010633518|True Worshippers Christian Fellowship Ministries|Baltimore|MD|United States|PC
+010637743|Most Valuable Kids Inc.|Rockville|MD|United States|GROUP
+010639265|Meritus Healthcare Foundation Inc.|Hagerstown|MD|United States|SOUNK
+010640868|Miracle Temple Pentecostal Church|Clinton|MD|United States|PC
+010642220|4s Foundation Inc.|Oxon Hill|MD|United States|PC
+010654372|Coles Closet|Springfield|VA|United States|PC
+010654551|Prospect Community Empowering Center Inc.|Yorktown|VA|United States|PC
+010654909|Omnicity|Provdence Frg|VA|United States|PC
+010656156|American College of Bankruptcy Foundation|Stanardsville|VA|United States|SO
+010657461|Maryland Community Health Initiatives|Baltimore|MD|United States|PC
+010658597|My Seniors Keeper Foundation|Washington|DC|United States|PC
+010660673|Carter Family Foundation|Annapolis|MD|United States|PF
+010661436|Virginia Beach Volunteer Water Rescue Team Inc.|Virginia Bch|VA|United States|PC
+010662244|Fox Haven Center|Jefferson|MD|United States|PC
+010668807|Goodwill Retirement Community Auxiliary Inc.|Grantsville|MD|United States|SOUNK
+010669150|Grantmakers for Effective Organizations|Washington|DC|United States|PC
+010671300|Divine Destiny Inc.|Chesapeake|VA|United States|PF
+010671885|Enhancing Lives Minisry Inc.|N Chesterfld|VA|United States|PC
+010671955|Engrafted Word Ministry|Portsmouth|VA|United States|PC
+010674819|Joyce-Gillespie-Harrington Educational & Charitable Foun|Reston|VA|United States|PC
+010675957|Bay Hundred Foundation Inc.|St. Michaels|MD|United States|PC
+010679238|Excellence Gym Sports Parents Association Inc.|Frederick|MD|United States|PC
+010681650|Virginia State University Real Estate Foundation|Petersburg|VA|United States|PC
+010682859|Mutual Fund Directors Forum|Washington|DC|United States|PC
+010686393|Cannonridge Therapeutic Riding Center|Chesapeake|VA|United States|PC
+010687727|Rotary Club of Washington County|Abingdon|VA|United States|PC
+010688590|National Coalition for History|Washington|DC|United States|PC
+010688619|White Oak Grove Outreach Center|Dry Fork|VA|United States|PC
+010691593|28th Massachusetts Volunteer Infantry Company B|Fredericksbrg|VA|United States|PC
+010699405|Pyle Education Foundation Corporation|Cabin John|MD|United States|PC
+010700061|Virginia Retina Foundation Inc.|Vienna|VA|United States|PC
+010700291|To Cook Again Foundation Inc.|Williamsburg|VA|United States|PC
+010701007|Bel Air Womans Club Inc.|Bel Air|MD|United States|PC
+010701233|Chesterfield-Colonial Heights Drug Court Foundation|Chesterfield|VA|United States|PC
+010702366|Crystal Cathedral Church of Christ|Dillwyn|VA|United States|PC
+010702612|Institute for Dynamic Education Advancement Inc.|Takoma Park|MD|United States|PC
+010703621|King Barn Dairy Mooseum Inc.|Boyds|MD|United States|PC
+010704666|Choate Development Corporation|N Chesterfld|VA|United States|PC
+010705447|Lesa-Usa Inc.|Laurel|MD|United States|PC
+010705982|Pediatric Education Foundation of Virginia Inc.|Richmond|VA|United States|SOUNK
+010706225|With-In With-Out the Circle Inc.|Washington|DC|United States|PC
+010706407|Greater Deliverance Ministries International Inc.|Landover|MD|United States|PC
+010706799|Green Blue Institute|Charlottesvle|VA|United States|PC
+010712951|Paul Laurence Dunbar High School Convocation & Alumni Federation|Washington|DC|United States|PC
+010713216|Bsg Family Foundation|Annapolis|MD|United States|PF
+010714880|Pakistan American Society of Central Virginia|Richmond|VA|United States|PC
+010715614|District of Columbia Voluntary Organizations Active in Disaster|Washington|DC|United States|PC
+010716432|Healing Waters Inc.|Mitchellville|MD|United States|PC
+010717561|Kids Harbor A Ministry of Harrisonburg First Church of the|Rockingham|VA|United States|PC
+010717907|Hampton Roads Chamber Players Inc.|Carrollton|VA|United States|PC
+010718915|Hilltop Ministries|Clifton Forge|VA|United States|PC
+010722448|New Good Samaritan Baptist Church|Baltimore|MD|United States|PC
+010722629|Marie A Mansbach Memorial Student Motivation Program|Virginia Bch|VA|United States|SOUNK
+010723688|Seekers|Fredericksbrg|VA|United States|PC
+010724780|Foundation for Hope|Bedford|VA|United States|PF
+010725238|Lead Maryland Foundation Inc.|Queenstown|MD|United States|PC
+010728162|Coalition of Community Development Financial Institutions Inc.|Washington|DC|United States|PC
+010728777|Riding to Recovery at Stonelea Farm|Aldie|VA|United States|PC
+010728877|Concerned Christians Inc.|Manassas|VA|United States|PC
+010729385|Chesapeake Rivers Association Inc.|Annapolis|MD|United States|PC
+010729558|Restoration and Greater Works Deliverance Ministries Inc.|Largo|MD|United States|PC
+010731531|James A Fields House Inc.|Newport News|VA|United States|PC
+010732928|US Russia Foundation for Ecnomic Advancement and the Rule of Law|Washington|DC|United States|EO
+010733148|US Coast Guard Chief Petty Officers Association Tidewater Branch C|Springfield|VA|United States|EO
+010733436|Royal Priesthood Ministries International Inc.|Gaithersburg|MD|United States|PC
+010736143|Mls Learning Inc.|Oxon Hill|MD|United States|PC
+010738255|Alive Again Baptist Ministries|Baltimore|MD|United States|PC
+010739119|Dunamis Revival Ministries Inc.|Bowie|MD|United States|PC
+010740393|The Renaissance Montessori School|Nokesville|VA|United States|PC
+010741003|Annapolis Navy Jnr Reserve Officer Traiing Corps Booster Club|Annapolis|MD|United States|PC
+010741661|Lions Club of Olney Foundation Inc.|Brookeville|MD|United States|PC
+010743607|Charitable Foundation of the Energy Bar Association|Washington|DC|United States|PC
+010744146|Research for A Cure|Rockville|MD|United States|SOUNK
+010746064|Laurel Park Community Boosters Club Inc.|Martinsville|VA|United States|PC
+010746901|Paws of Southwest Virginia Inc.|Coeburn|VA|United States|PC
+010747500|Wilbert Foundation|Hagerstown|MD|United States|PF
+010748115|Christian Life Center Inc.|Riverdale|MD|United States|PC
+010751046|Spectemur Agendo Inc.|Washington|DC|United States|PF
+010751429|Davis Family Foundation|Hanover|MD|United States|PF
+010752247|White Marsh Elementary School Parent Teacher Organization|Trappe|MD|United States|PC
+010757374|At-One-Ment With God Church|Pasadena|MD|United States|PC
+010757869|Educational & Charitable Fund|Arlington|VA|United States|PC
+010758677|William and Karin Banks Foundation Inc.|Monterey|VA|United States|PF
+010758860|Firstfruits Foundation|Virginia Bch|VA|United States|PF
+010759729|Rehoboth Mission Baptist Church|Beltsville|MD|United States|PC
+010759861|Arlington Girls Softball Association|Arlington|VA|United States|PC
+010761177|Cancer Outreach Foundation|Abingdon|VA|United States|PC
+010762192|Harry and Jeanette Weinberg Village 1 Inc.|Baltimore|MD|United States|PC
+010769341|Parents of Autistic Children Northern Va Poac-Nova|Vienna|VA|United States|PC
+010770407|American Fox Terrier Rescue Inc.|Alexandria|VA|United States|PC
+010777668|Jess Carson Foundation Inc.|Annapolis|MD|United States|PC
+010777717|Cheer Spot|Uppr Marlboro|MD|United States|PC
+010778750|Indiaasha Org Inc.|Ellicott City|MD|United States|PC
+010780542|Stanardsville Area Revitalization Star|Stanardsville|VA|United States|PC
+010781442|United Christian Holiness Church|Norfolk|VA|United States|PC
+010782508|Immunizations for the Public Health|Annapolis|MD|United States|PC
+010783522|Vedics Foundation|Chantilly|VA|United States|PC
+010787777|Pan-Laconian Foundation Inc.|Silver Spring|MD|United States|PC
+010789419|Little Creek Athletic Association Inc.|Norfolk|VA|United States|PC
+010795617|Centro De Formacion La Gran Comision|Burke|VA|United States|PC
+010796599|Kent Island Youth Soccer League Inc.|Stevensville|MD|United States|PC
+010796791|Arlington Sports Hall of Fame Incorporated|Arlington|VA|United States|PC
+010799795|Talbot Swim Club|Easton|MD|United States|PC
+010800049|United Nation of Individuals Fighting Impossibilities|Washington|DC|United States|PC
+010800764|Heritage Regional Library Foundation Inc.|Charles City|VA|United States|PC
+010803211|Friends of Folly Quarter Musicians|Ellicott City|MD|United States|PC
+010805122|Mid Atlantic Community Church|Gambrills|MD|United States|PC
+010808098|Iwt-Trnn Inc.|Baltimore|MD|United States|PC
+010810191|Clustered Spires Cemetery Inc.|Frederick|MD|United States|EO
+010811847|Center for Islam and Public Policy Inc.|Frederick|MD|United States|PC
+010811944|George Sndyer Memorial Fund Trust|Laurel|MD|United States|PC
+010813545|Great Salvation Christian Fellowship|Burke|VA|United States|PC
+010814106|Word of Life Chapel International|Baltimore|MD|United States|PC
+010814181|Museum of Underwater Archaeology|Bealeton|VA|United States|PC
+010814812|Bowling Green Christian Center|Richmond|VA|United States|PC
+010815018|Eod Mc|Virginia Bch|VA|United States|EO
+010816557|Out of Bondage Ministries Inc.|Baltimore|MD|United States|PC
+010817022|Ferngal Music Productions Publishing Inc.|Baltimore|MD|United States|PC
+010818232|Community Connections Real Estate Foundation|Washington|DC|United States|SOUNK
+010819118|Whole Woman Incorporated|Nottingham|MD|United States|PC
+010819395|Patterson Park Public Charter|Baltimore|MD|United States|PC
+010820336|Good Success Community Development Corporation|Washington|DC|United States|PC
+010823200|Choices for Success|Lanham|MD|United States|PC
+010823901|Ruth Project Fellowship Ministries|Accokeek|MD|United States|PC
+010825310|United Family Worship Center|Hampton|VA|United States|PC
+010826610|Buffalo Soldiers of Hampton Roads Virginia Motorcycle Club Inc.|Chesapeake|VA|United States|PC
+010828417|Breaking Barriers A Learning Center|Gloucester|VA|United States|PC
+010829234|St. Peter the Apostle No 13290 Charities Inc.|New Market|MD|United States|PC
+010833168|Universities Allied for Essential Medicines Corp|Washington|DC|United States|PC
+010834085|Mars Hill Ministry Center|Ruther Glen|VA|United States|PC
+010838323|Growing on Inc.|Washington|DC|United States|PC
+010839908|Alexandria Chamber Foundation|Alexandria|VA|United States|SOUNK
+010842851|Admiral Byrd Middle School Parent Teacher Organization Inc.|Winchester|VA|United States|PC
+010844484|Fredrick Alumni Chapter Kappa Alpha Psi Foundation Inc.|Frederick|MD|United States|PC
+010845098|Life Empowerment Community Outreach|Randallstown|MD|United States|PC
+010847566|Friend Family Assocation of America Inc.|Friendsville|MD|United States|PC
+010854540|Secosol|Arlington|VA|United States|PC
+010858129|Life Application Apostolic Bible Church|Beltsville|MD|United States|PC
+010858603|The British Players Inc.|Washington|DC|United States|PC
+010860759|New Life Rhema Christian Center|Hampton|VA|United States|PC
+010861726|Living Waters Outreach Ministries|Virginia Bch|VA|United States|PC
+010862949|Children of God|Crisfield|MD|United States|PC
+010865446|Cosby High School Athletic Boosters|Midlothian|VA|United States|PC
+010867348|Best Camp Inc.|Silver Spring|MD|United States|PC
+010868932|World Victory Life Center Inc.|Newport News|VA|United States|PC
+010869980|Westfield High School Choral Boosters|Chantilly|VA|United States|PC
+010870048|Highway Baptist Church and Ministries|Baltimore|MD|United States|PC
+010870173|Washington - Anacostia Squadron Inc.|Fairfax|VA|United States|PC
+010870465|Tabernacle International Ministries|Laurel|MD|United States|PC
+010873570|Perfecting Outreach Missions Incorporated|Fredericksbrg|VA|United States|PC
+010875296|One Star Enterprise Inc.|Germantown|MD|United States|PC
+010875326|Lion of Judah Bible Fellowship Church|Edgewood|MD|United States|PC
+010877292|Hurricanes Baseball|Fredericksburg|VA|United States|PC
+010879667|Light of the World Christian Center Inc.|Chesapeake|VA|United States|PC
+010880770|Community Foundation of Harford County Inc.|Bel Air|MD|United States|PC
+010881007|Gainesville-Haymarket Rotary Foundation Inc.|Haymarket|VA|United States|PC
+010883314|Poquoson Primary School Parent Teacher Organization|Poquoson|VA|United States|PC
+010884971|Sbc Outreach and Worship Ministries|Baltimore|MD|United States|PC
+010888296|Nash Historical Preservation Corporation|Wise|VA|United States|PC
+010891132|Resolve Uganda Incorporated|Washington|DC|United States|PC
+010891952|Ellis Acres Memorial Park Inc.|Dillwyn|VA|United States|PC
+010896501|Us-Central Asia Education Foundation|Washington|DC|United States|PF
+010897650|Gift of Amazing Love Inc.|Cantonsville|MD|United States|PC
+010900954|Angel of Hope Ministries Inc.|Washington|DC|United States|PC
+010901700|Maryland Foster Parent Association - Kent County Inc.|Hagerstown|MD|United States|PC
+010901949|Vaw 120 Auxillary Resale Outlet|Norfolk|VA|United States|PC
+010902855|Payne Lighthouse Community Development Corporation|Jessup|MD|United States|PC
+010905269|Vietnam Foundation|Washington|DC|United States|PC
+010906233|Share at the Haven Inc.|Hyattsville|MD|United States|PC
+010906645|Moorish Prison Reentry Mission Inc.|Catonsville|MD|United States|PC
+010909935|Charlottesville Area Tree Stewards|Charlottesvle|VA|United States|PC
+010910162|Lee Hill Elementary Pto|Fredericksbrg|VA|United States|PC
+010910406|The Maryland Immigrant Rights Coalition Inc.|Baltimore|MD|United States|PC
+010911124|Stephen J Ponzillo Jr Memorial Library & Museum of the Grand Lodg|Cockeysville|MD|United States|PC
+010912849|Stray Haven|Dundas|VA|United States|PC
+010912891|Brown Advisory Charitable Foundation Inc.|Baltimore|MD|United States|PF
+010913579|New Vision Community Church|Washington|DC|United States|PC
+010914846|Community First-Americas Charities|Chantilly|VA|United States|SOUNK
+010915597|Central Ohio Homecare Agency Llc|Uppr Marlboro|MD|United States|PC
+010916186|Church of Zion Deliverance Ministries Inc.|Clinton|MD|United States|PC
+010918321|Bapolstogic Ministries|Washington|DC|United States|PC
+010920084|House of Miracle Ministries|Frederick|MD|United States|PC
+010921354|Veterans Housing Community Services Programs Inc.|Gloucester|VA|United States|PC
+010922902|Washington Dc International Christian Church|Washington|DC|United States|PC
+010925469|Professional Soccer Referees Association Inc.|Alexandria|VA|United States|PC
+010926792|The Redeemed Christian Church of God Goshen Parish Annapolis Md Inc.|Glenn Dale|MD|United States|PC
+010927327|Electrification Coalition Foundation|Washington|DC|United States|PC
+010928344|True Gospel Church Ministry|White Plains|MD|United States|PC
+010928451|Banneker Elementary School Parent Teacher Organization|Middleburg|VA|United States|PC
+010928786|Faith Temple Church|Manassas|VA|United States|PC
+010930015|Breakforth Ministries and Consulting Inc.|Haymarket|VA|United States|PC
+010930878|Staunton River Band Boosters|Moneta|VA|United States|PC
+010932672|Basic Needs Program Inc.|Ashland|VA|United States|PC
+010933272|Power of the Highest Ministries International|Rockville|MD|United States|PC
+010933493|Gospelsongbird Healing and Helping Ministry|Uppr Marlboro|MD|United States|PC
+010934072|Nyakishenyi African Mission|New Market|MD|United States|PC
+010934331|Life Journeys Writers Club Inc.|Waldorf|MD|United States|PC
+010934894|John-Thomas Association of Freewill Baptist|Clintwood|VA|United States|PC
+010937659|Lords Chosen Charismatic Revival Ministries Inc.|Temple Hills|MD|United States|PC
